@@ -1,0 +1,8 @@
+git status
+git init
+git config user.name "Eren Jae"
+git config user.email "shanngh358@gmail.com"
+git add
+git commit -m ""
+git log
+Git diff <filename>
