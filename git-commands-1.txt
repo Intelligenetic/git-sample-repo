@@ -10,3 +10,5 @@ git log
 Git diff <filename>
 
 eat my ass
+
+eat my ass 2
